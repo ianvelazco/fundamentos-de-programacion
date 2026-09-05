@@ -1,9 +1,14 @@
-algoritmo salario
-definir horas, salario, sxh como real
-escribir "Cuántas horas trabajas mensualmente?"
-leer horas
-escribir "Cuánto te pagan por hora trabajada?"
-leer salario
-sxh=salario*horas
-escribir "Ganas $" , sxh, " cada mes"
-finalgoritmo
+Algoritmo sin_titulo
+	definir horas, salario, sxh Como real
+	escribir "Cuantas horas trabajas al mes?"
+	leer horas
+	escribir "Cuánto te pagan por hora trabajada?"
+	leer salario
+	si salario<=0
+		escribir "Error, tu paga debe ser un número positivo"
+	sino 
+		sxh=salario*horas
+		escribir "Ganas $", sxh , " al mes"
+	FinSi
+	
+FinAlgoritmo
