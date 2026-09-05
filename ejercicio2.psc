@@ -1,6 +1,6 @@
 Algoritmo ejercicio2
 	definir p1, p2, p3, final Como Real
-	escribir "Te voy a pedir las calificaciones de cada un ode tus 4 parciales para calcular tu promedio"
+	escribir "Te voy a pedir las calificaciones de cada uno de tus parciales para calcular tu promedio"
 	escribir "Por favor dame tu calificacion en el primer parcial"
 	leer p1
 	escribir "Por favor dame tu calificacion en el segundo parcial"
