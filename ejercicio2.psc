@@ -12,9 +12,9 @@ Algoritmo ejercicio2
 		Entonces
 		escribir "Vuelve a introducir tu calificacion y asegurate que sean numeros positivos"
 	sino si final>=6 Entonces
-			Escribir "Tu calificacion final es ", final, ", felicidades por aprobar."
+			Escribir "APROBADO"
 		SiNo
-			escribir "Tu calificacion final es ", final, ", reprobaste la materia"
+			escribir "REPROBADO"
 		FinSi
 		
 	FinSi

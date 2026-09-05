@@ -1,0 +1,19 @@
+Algoritmo ejercicio4
+	definir n1, n2 Como Real
+	escribir "Dame un número"
+	leer n1
+	escribir "Ahora dame otro número"
+	leer n2
+	si n1=n2
+		Entonces
+		escribir n1*n2
+	FinSi
+	si n1>n2
+		entonces 
+		escribir n1-n2
+	FinSi
+	si n1<n2
+		Entonces
+		escribir n1+n2
+	FinSi
+FinAlgoritmo
