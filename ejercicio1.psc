@@ -1,4 +1,4 @@
-Algoritmo sin_titulo
+Algoritmo ejercicio1
 	definir horas, salario, sxh Como real
 	escribir "Cuantas horas trabajas al mes?"
 	leer horas
