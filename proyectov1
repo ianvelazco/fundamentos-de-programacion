@@ -1,7 +1,7 @@
 subproceso promedio=calcularpromedio(p1, p2, p3)
 	promedio=(p1+p2+p3)/3
 FinSubProceso
-Algoritmo sin_titulo
+Algoritmo proyectov1
 	definir nombre1,nombre2,nombre3 como caracter 
 	definir promedio1, promedio2, promedio3 como real
 	definir p1,p2,p3 como real 
